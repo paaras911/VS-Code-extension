@@ -1,4 +1,4 @@
-# webapp README
+#  README
 
 A visual studio code extension that runs InferIDE using MagpieBridge
 ## Language Server
